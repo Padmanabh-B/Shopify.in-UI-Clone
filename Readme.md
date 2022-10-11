@@ -29,3 +29,4 @@ A Good Looking Home Page of Shopify, it is actually the clone of Shopify. it is 
 
 
 ## Deployed Link
+[Shopify UI Clone](https://paddu-shopify-ui-clone.netlify.app/)
